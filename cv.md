@@ -39,4 +39,4 @@ function multiply(a, b) {
 #### Languages
 * Belarussian - native speaker
 * Russian - native speaker
-* English
+* English - intermediate/upper-intermediate
